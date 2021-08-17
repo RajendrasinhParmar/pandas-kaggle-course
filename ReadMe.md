@@ -12,4 +12,4 @@ Link to the challenge page. [Pandas](https://www.kaggle.com/learn/pandas)
 
 | Links                 |
 |:-----------------------:|
-|  [Creating, Reading and Writing](./creatin_reading_and_writing)   |
+|  [Creating, Reading and Writing](./creating_reading_and_writing)   |
